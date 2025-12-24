@@ -526,7 +526,7 @@ update-checker==0.18.0
 uritemplate==4.1.1
 uritools==4.0.0
 url-normalize==1.4.3
-urllib3==1.26.9
+urllib3==2.6.0
 urwid==2.1.2
 urwid-readline==0.13
 userpath==1.8.0
